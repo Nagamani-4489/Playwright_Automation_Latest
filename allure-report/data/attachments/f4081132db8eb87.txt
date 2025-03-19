@@ -1,0 +1,9 @@
+[
+  [
+    'ZARA COAT 3$ 31500 View Add To Cart',
+    'ADIDAS ORIGINAL$ 31500 View Add To Cart',
+    'IPHONE 13 PRO$ 231500 View Add To Cart'
+  ]
+]
+3
+ | 67d13527c019fb1ad62261d8 | 
